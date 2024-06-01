@@ -1,7 +1,8 @@
-# Tauri + React + Typescript
+# the-text-engine
+Desktop application with collection of Language models.
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+## Models
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+| Name        | Model Type | Link |
+|-------------|------------|------|
+| YourName        |   Translator   | [abc.com](abc.com) |
